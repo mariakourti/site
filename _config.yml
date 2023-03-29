@@ -14,9 +14,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "pibook"
 description              : "Programming Interactivity Greek Book."
-url                      : "https://thetimeparadox-pibook.netlify.app"
+url                      : "https://p2020158.netlify.app"
 baseurl                  : ""
-repository               : "TheTimeParadox/site"
+repository               : "mariakourti/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
