@@ -1,10 +1,10 @@
 [submodule "images"]
 	path = images
-        url = https://github.com/TheTimeParadox/images.git
+        url = https://github.com/mariakourti/images.git
         branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/TheTimeParadox/_gallery.git
+	url = https://github.com/mariakourti/_gallery.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
