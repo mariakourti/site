@@ -10,10 +10,12 @@ events:
   - mit-scratch
   - grail-flow
   - visual-basic-form-designer
+  - blender
   - object-pascal
   - eclipse-ide
   - emacs-ide
   - processing-ide
   - vim-ide
   - arduino-ide
+  - unreal-5
 ---
