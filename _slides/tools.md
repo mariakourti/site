@@ -12,6 +12,8 @@ slides:
   - android-emulator
   - grail-flow
   - visual-basic-form-designer
+  - blender
+  - unreal-5
   - mit-scratch
   - smalltalk
   - vim-ide
