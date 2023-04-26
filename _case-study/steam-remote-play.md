@@ -11,4 +11,4 @@ tags:
   - remote control
 ---
 
-{% include steam-remote-play.md %}
+{% include cs-steam-remote-play.md %}
